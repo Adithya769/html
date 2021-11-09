@@ -1,0 +1,70 @@
+body{ background: url(pngegg.png) no-repeat;background-size: 100%;margin: auto;padding: auto;}
+h1{    text-align: center;text-transform: capitalize;color: darkblue;}
+h2{text-transform: capitalize;}
+nav{background-color: azure; padding: 10px; box-shadow: #008b8b 2px 3px 4px;}
+nav img{
+    align-items: center;
+    width:15px;
+}
+nav a{
+ color: blue;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ text-decoration: none;
+ padding: 10px;
+ margin: 10px;
+}
+nav a:hover{background-color: skyblue;color: tomato;}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+section{
+    color: blueviolet;
+}
+section p{
+    text-align: center;
+}
+#par{
+    text-align: center;
+    color: #1e6268;
+    border: 5px double #43833a;
+    padding: 10px;
+    margin: 10px;
+}
+.box_show{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contant{
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: #008b8b 2px 3px 4px;
+}
+.contant section{
+    text-transform: capitalize;
+}
+.contant_section{
+    text-align: center;
+}
+section.bor{
+    border: orange double 3px;
+    padding: 10px;
+    margin: 10px;
+    color:  #008b8b;
+}
+table{
+    padding: 10px;
+}
+table th{
+    padding: 10px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #50b143;
+}
+table tr td{padding: 10px;margin: 10px; text-align: center;color: #193a92;}
+
+
+.textshow{text-shadow: 1px 1px 8px #a7a7b7;}
+.boxshow{margin: 50%;padding: 50%;}
